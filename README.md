@@ -87,11 +87,11 @@ return re.test(String(email).toLowerCase());
 
 In the future, we are going to study various aspects of Javascript in more depth in order to add more and more features that will help our site become better. Also, the method of adding classes via javascript is very convenient, so we will especially study this method in order to decorate our upcoming works in the best way. ### Useful resources
 
-- [Resource Example 1] (https://www.w3schools.com / - This resource was very useful in writing HTML code, although most of it was written without it, but in some moments it was very useful.
-- [Resource Example 2] (https://www.javascript.com/learn ) - This site also helped a lot in writing Javascript code. Therefore, we recommend that when learning this language, look for information that will help here.
+-  (https://www.w3schools.com / - This resource was very useful in writing HTML code, although most of it was written without it, but in some moments it was very useful.
+-  (https://www.javascript.com/learn ) - This site also helped a lot in writing Javascript code. Therefore, we recommend that when learning this language, look for information that will help here.
 
 - (https://developer.mozilla.org/ru /) this resource also has a lot of useful articles on various topics , on this site we found answers to some of our questions.
 ## Author
 
 - Website - [Tashimov Almaz and Rinatova Madina] (https://www.your-site.com )
-- Git hub
+
